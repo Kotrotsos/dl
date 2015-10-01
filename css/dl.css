@@ -986,7 +986,7 @@ body, body.mce-content-body {
   padding: 0;
   padding-top:30px;
   background: #fff;
-  font-family: "Open Sans" !important;
+  font-family: 'Open Sans', sans-serif !important;
   font-size: 14px;
   font-weight: 400;
   color: #5E6A71; }
